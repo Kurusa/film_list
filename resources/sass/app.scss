@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Fa icons
+@import "~font-awesome/scss/font-awesome.scss";
+
+.film-card {
+  width: 18rem;
+  margin: 10px
+}
+
+.pagination-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.form-group {
+  display: grid;
+}
